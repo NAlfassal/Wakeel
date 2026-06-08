@@ -39,14 +39,6 @@ pip install -r requirements.txt
 ---
 
 ### الخطوة 3 — إعداد المتغيرات (10 دقائق)
-
-```bash
-# انسخ ملف المتغيرات
-copy .env.example .env       # Windows
-# أو
-cp .env.example .env         # Mac/Linux
-```
-
 افتح ملف `.env` وأضف القيم:
 
 #### 🔑 Twilio (مجاني):
