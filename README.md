@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ---
 
 ### الخطوة 3 — إعداد المتغيرات (10 دقائق)
-افتح ملف `.env` وأضف القيم:
+افتح ملف `env.` وأضف القيم:
 
 #### 🔑 Twilio (مجاني):
 1. اذهب لـ [console.twilio.com](https://console.twilio.com)
