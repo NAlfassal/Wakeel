@@ -1,0 +1,62 @@
+[
+  {
+    "id": "P001",
+    "name": "سماعات سوني WH-1000XM5",
+    "name_en": "Sony WH-1000XM5 Headphones",
+    "category": "إلكترونيات",
+    "price": 1299,
+    "currency": "ر.س",
+    "in_stock": true,
+    "description": "سماعات لاسلكية بخاصية إلغاء الضوضاء، بطارية 30 ساعة"
+  },
+  {
+    "id": "P002",
+    "name": "آيباد برو 11 بوصة",
+    "name_en": "iPad Pro 11-inch",
+    "category": "إلكترونيات",
+    "price": 3499,
+    "currency": "ر.س",
+    "in_stock": true,
+    "description": "شريحة M4، شاشة Liquid Retina، تخزين 256GB"
+  },
+  {
+    "id": "P003",
+    "name": "كرسي مكتب إيرغو برو",
+    "name_en": "Ergo Pro Office Chair",
+    "category": "أثاث المكتب",
+    "price": 899,
+    "currency": "ر.س",
+    "in_stock": true,
+    "description": "كرسي مريح بدعم قطني قابل للتعديل"
+  },
+  {
+    "id": "P004",
+    "name": "ساعة آبل Series 10",
+    "name_en": "Apple Watch Series 10",
+    "category": "إلكترونيات",
+    "price": 1599,
+    "currency": "ر.س",
+    "in_stock": false,
+    "description": "شاشة OLED، تتبع صحي متقدم، GPS"
+  },
+  {
+    "id": "P005",
+    "name": "حقيبة لابتوب جلدية 15 بوصة",
+    "name_en": "Leather Laptop Bag 15\"",
+    "category": "اكسسوارات",
+    "price": 299,
+    "currency": "ر.س",
+    "in_stock": true,
+    "description": "جلد طبيعي، جيوب متعددة، ضمان سنتين"
+  },
+  {
+    "id": "P006",
+    "name": "ماوس لوجيتك MX Master 3S",
+    "name_en": "Logitech MX Master 3S",
+    "category": "اكسسوارات",
+    "price": 459,
+    "currency": "ر.س",
+    "in_stock": true,
+    "description": "ماوس لاسلكي مريح، دقة 8000 DPI، بطارية طويلة"
+  }
+]

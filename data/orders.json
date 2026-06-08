@@ -1,0 +1,42 @@
+{
+  "ORD-1001": {
+    "id": "ORD-1001",
+    "customer": "أحمد محمد",
+    "product": "سماعات سوني WH-1000XM5",
+    "category": "اكسسوارات",
+    "status": "تم التسليم",
+    "date": "2025-04-10",
+    "delivery_date": "2025-04-13",
+    "tracking": "SAR-482901"
+  },
+  "ORD-1002": {
+    "id": "ORD-1002",
+    "customer": "سارة العتيبي",
+    "product": "آيباد برو 11 بوصة",
+    "category": "إلكترونيات",
+    "status": "قيد الشحن",
+    "date": "2025-05-17",
+    "expected_delivery": "2025-05-21",
+    "tracking": "SAR-591023"
+  },
+  "ORD-1003": {
+    "id": "ORD-1003",
+    "customer": "خالد الغامدي",
+    "product": "كرسي مكتب إيرغو برو",
+    "category": "أثاث المكتب",
+    "status": "قيد المعالجة",
+    "date": "2025-05-19",
+    "expected_delivery": "2025-05-24",
+    "tracking": "SAR-601445"
+  },
+  "ORD-1004": {
+    "id": "ORD-1004",
+    "customer": "نورة الشمري",
+    "product": "ماوس لوجيتك MX Master 3S",
+    "category": "اكسسوارات",
+    "status": "تم التسليم",
+    "date": "2025-04-16",
+    "delivery_date": "2026-05-20",
+    "tracking": "SAR-578234"
+  }
+}
