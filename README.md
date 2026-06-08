@@ -120,8 +120,8 @@ Forwarding   https://abc123.ngrok-free.app -> http://localhost:8000
 
 ```
 whatsapp_agent/
-├── main.py                 # 🚀 نقطة الدخول — FastAPI + Webhook
-├── .env.example            # 🔑 نموذج المتغيرات
+├── main.py                 # نقطة الدخول — FastAPI + Webhook
+├── .env                    # 🔑 نموذج المتغيرات
 ├── requirements.txt        # 📦 المكتبات
 │
 ├── agent/
